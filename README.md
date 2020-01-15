@@ -1,4 +1,4 @@
-china_district [![latest_version]][pypi_version] [![License]][license_url] [![python_version]][python_version]
+china_district [![latest_version]][pypi] [![License]][license_url] [![python]][pypi]
 ========
 
 
@@ -98,5 +98,5 @@ Licensed under the MIT License.
 [License]:         https://img.shields.io/github/license/xugongli/china_district.svg
 [license_url]:     https://github.com/xugongli/china-district/blob/master/LICENSE
 [latest_version]:            https://img.shields.io/pypi/v/china_district.svg
-[pypi_version]: https://pypi.org/project/china-district/
-[support_python_version]: https://img.shields.io/pypi/pyversions/china_district.svg
+[pypi]: https://pypi.org/project/china-district/
+[python]: https://img.shields.io/pypi/pyversions/china_district.svg
